@@ -11,20 +11,20 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: '개요',
+    title: '신체 및 정신 건강 관리',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        AI 에이전트의 정의, 발전 역사, 현재 기술 수준을 알아봅니다.
+        거북목 예방을 위한 데스크 환경 구축, 복잡한 로직 뒤에 숨 고르기: 마인드풀니스, 숙면을 위한 디지털 디톡스 가이드
       </>
     ),
   },
   {
-    title: '핵심 기술',
+    title: '지속 가능한 업무 습관',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        LLM 기반 에이전트, 멀티모달 에이전트, 자율 에이전트 아키텍처를 분석합니다.
+        뽀모도로 기법을 활용한 집중력 관리, 업무와 일상의 경계를 긋는 커뮤니케이션, 지치지 않는 학습: 지식 습득의 속도 조절
       </>
     ),
   },
